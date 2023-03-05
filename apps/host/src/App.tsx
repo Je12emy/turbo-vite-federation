@@ -1,3 +1,4 @@
+// @ts-ignore
 import RemoteApp from "remote_app/remoteApp"
 
 function App() {
